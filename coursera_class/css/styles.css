@@ -18,11 +18,11 @@ p {
   overflow: scroll;
   text-align: left;
   float: left;
-  position: relative;
+  position: absolute;
 }
 
 h3 {
-  position: absolute;
+  position: relative;
   top: 5px;
   right: 5px;
 }
