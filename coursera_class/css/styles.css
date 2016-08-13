@@ -8,6 +8,18 @@
   font-size: 175%;
   }
   
+#h2 {
+  background: #FFF8DC;
+}
+
+#h3 {
+  background: #FFFAF0;
+}
+
+#h4 {
+  background: #F8F8FF;
+}
+  
 div {
   position: absolute;
 }
@@ -30,7 +42,6 @@ h3 {
   margin: 0;
   padding: 10px;
   border: 1px solid black;
-  background: yellow;
   text-align: right;
   width: 200px;
 }
