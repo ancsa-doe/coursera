@@ -18,10 +18,11 @@ p {
   overflow: scroll;
   text-align: left;
   float: left;
+  position: relative;
 }
 
 section {
-  position: relative;
+  position: absolute;
   top: 5px;
   right: 5px;
 }
