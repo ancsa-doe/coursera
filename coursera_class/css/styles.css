@@ -17,3 +17,15 @@ p {
   overflow: scroll;
   text-align: left;
 }
+
+#p1 {
+  float: left;
+}
+
+#p2 {
+  float: center;
+}
+
+#p3 {
+  float: right;
+}
