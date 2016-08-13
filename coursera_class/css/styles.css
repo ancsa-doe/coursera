@@ -17,7 +17,6 @@ section {
   overflow: scroll;
   text-align: left;
   float: left;
-  position: absolute;
 }
 
 h3 {
