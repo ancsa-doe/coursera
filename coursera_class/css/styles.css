@@ -7,6 +7,6 @@ body {
 #box {
   background: grey;
   margin: 10px;
-  padding: 5px;
+  padding: 5px 5px 5px 5px;
   border: 1px;
 }
