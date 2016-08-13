@@ -8,7 +8,7 @@ body {
   text-align: centered;
   }
 
-#box {
+div {
   background: grey;
   margin: 30px;
   padding: 10px;
