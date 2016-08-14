@@ -12,7 +12,7 @@
 
 [class*="col-"] {
     float: left;
-    padding: 15px;
+    padding: 10px;
 }
 /* For mobile phones: */
 [class*="col-"] {
@@ -50,11 +50,8 @@
 }
 section {
   background: grey;
-  padding: 10px;
   border: 1px solid black;
-  float: left;
   margin-right: 10px;
-  width: 32%;
   height: 400px;
   position: relative;
 }
