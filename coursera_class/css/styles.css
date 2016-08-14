@@ -6,10 +6,11 @@
 
 section {
   background: grey;
-  margin: 10px;
   padding: 10px;
   border: 1px solid black;
   float: left;
+  margin-right: 10px;
+  width: 30%;
   position: relative;
 }
 
