@@ -1,6 +1,6 @@
 /*** general style ***/
 * {
-  box-sizing: border-box;
+  box-sizing: margin-box;
   font-family: Arial, Helvetica, sans-serif;
 }
 
