@@ -10,6 +10,10 @@
     display: block;
 }
 
+.margin {
+  margin-right: 20px;
+}
+
 [class*="col-"] {
     float: left;
     padding: 10px;
