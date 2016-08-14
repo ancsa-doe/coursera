@@ -12,6 +12,8 @@
 
 .margin {
   margin-right: 20px;
+  background: grey;
+  border: 1px solid black;
 }
 
 [class*="col-"] {
@@ -53,8 +55,6 @@
     .col-12 {width: 100%;}
 }
 section {
-  background: grey;
-  border: 1px solid black;
   position: relative;
   margin-bottom: 10px;
 }
