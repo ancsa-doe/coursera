@@ -19,7 +19,8 @@ p {
   padding: 10px;
   overflow: scroll;
   text-align: left;
-  height: 300px;
+  height: 350px;
+  clear: right;
 }
 
 h1 {
