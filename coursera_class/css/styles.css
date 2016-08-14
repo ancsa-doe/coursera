@@ -58,23 +58,16 @@ p {
   .col-ta-12 { width: 100%;}
 }
 
-/*** headings ***/
 #h1 {
   text-align: center;
   font-size: 175%;
   }
   
-#h2 {
-  background: #FFF8DC;
-}
+#title1 { background: #FFF8DC; }
 
-#h3 {
-  background: #FFFAF0;
-}
+#title2 { background: #FFFAF0; }
 
-#h4 {
-  background: #F8F8FF;
-}
+#title3 { background: #F8F8FF; }
 
 h3 {
   position: relative;
