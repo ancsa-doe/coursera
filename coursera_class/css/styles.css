@@ -14,9 +14,9 @@ p {
 }
 
 /*** simple responsive framework ***/
-.row {
+/*.row {
   width: 100%;
-}
+}/
 
 /*** desktop version ***/
 @media (min-width: 992 px) {
