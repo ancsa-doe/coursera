@@ -4,6 +4,11 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+div {
+  float: left;
+  position: relative;
+}
+
 p {
   background: grey;
   margin: 10px;
@@ -23,11 +28,6 @@ h1 {
 #title2 { background: #FFFAF0; }
 
 #title3 { background: #F8F8FF; }
-
-div {
-  float: left;
-  position: relative;
-}
 
 h3 {
   position: absolute;
