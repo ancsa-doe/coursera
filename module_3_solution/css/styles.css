@@ -11,6 +11,12 @@ body {
   border-radius: 0;
   border: 0;
 }
+#logo-img {
+  background: url('../images/free_logo.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}
 
 .navbar-brand {
   padding-top: 25px;
