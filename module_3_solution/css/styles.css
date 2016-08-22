@@ -131,7 +131,6 @@ section {
   position: relative;
   margin-bottom: 10px;
   height: 700px;
-  background: #f4e1d2;
 }
 
 p {
@@ -139,6 +138,7 @@ p {
   text-align: left;
   height: 300px;
   overflow: auto;
+  background: #f4e1d2;
 }
 
 h1 {
@@ -154,6 +154,7 @@ h1 {
 
 h3 {
   text-align: center;
+  background: #f4e1d2;
 }
 
 #menu-tile, #specials-tile, #map-tile {
