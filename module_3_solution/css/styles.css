@@ -40,6 +40,9 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+.navbar-collapse {
+  visible-xs;
+}
 /*
 .navbar-brand p { /* Kosher cert */
   color: #000;
