@@ -43,6 +43,9 @@ body {
 .navbar-collapse {
   visible-xs;
 }
+.navbar-nav {
+  text-align: center;
+}
 /*
 .navbar-brand p { /* Kosher cert */
   color: #000;
