@@ -133,15 +133,17 @@ body {
   background: #f4e1d2;
   color:  #50394c;
 }
+.back-to-top {
+  position: absolute;
+  bottom: 10px;
+  text-align: center;
+}
 section {
   position: relative;
   margin-bottom: 10px;
   height: 700px;
 }
-.back-to-top {
-  position: absolute;
-  bottom: 20px;
-}
+
 p {
   padding: 20px;
   text-align: left;
