@@ -130,12 +130,13 @@ body {
 .margin {
   margin: 15px;
   border: 1px solid black;
+  background: #f4e1d2;
+  color:  #50394c;
 }
 section {
   position: relative;
   margin-bottom: 10px;
   height: 700px;
-  background: #f4e1d2;
 }
 
 p {
