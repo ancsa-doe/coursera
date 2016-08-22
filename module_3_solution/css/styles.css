@@ -1,5 +1,6 @@
 /* basic style*/
 body {
+  box-sizing: border-box;
   font-size: 16px;
   color: #fff;
   background-color: #50394c;
@@ -121,6 +122,34 @@ body {
   box-shadow: 0 0 50px #3F0C1F;
   border: 2px solid #3F0C1F;
 }
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+section {
+  position: relative;
+  margin-bottom: 10px;
+  height: 700px;
+}
+
+p {
+  padding: 40px 20px 20px 20px;
+  text-align: left;
+  height: 300px;
+  overflow: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 175%;
+  }
+  
+#title1 { background: #f4e1d2; }
+
+#title2 { background: #f4e1d2; }
+
+#title3 { background: #f4e1d2; }
 
 #menu-tile, #specials-tile, #map-tile {
   height: 250px;
