@@ -127,6 +127,11 @@ body {
     clear: both;
     display: block;
 }
+.margin {
+  margin: 15px;
+  background: grey;
+  border: 1px solid black;
+}
 section {
   position: relative;
   margin-bottom: 10px;
